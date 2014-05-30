@@ -2,6 +2,8 @@
 slug: :mikutter-misakura
 depends:
   mikutter: 0.2.2.1537
+  plugin:
+  - gtk
 version: '0.1.1'
 author: oishikazuki
 name: mikutter-misakura

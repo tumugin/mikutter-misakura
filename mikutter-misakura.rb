@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 def AheGaoDoublePeace(text)
     str = text
     str = str.gsub(/(気持|きも)ちいい/,'ぎも゛ぢい゛い゛ぃ')
